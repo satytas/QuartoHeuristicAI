@@ -1,0 +1,13 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore IDE-specific files
+*.prefs
+*.classpath
+*.project
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
